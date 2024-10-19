@@ -21,6 +21,7 @@
     "react-dom": "^18",
     "tailwind-merge": "^2.5.2",
     "tailwindcss-animate": "^1.0.7",
+    "ui-designer": "file:",
     "uuid": "^10.0.0"
   },
   "devDependencies": {
